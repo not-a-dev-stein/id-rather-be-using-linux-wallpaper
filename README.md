@@ -3,6 +3,14 @@ For you who is stuck with Windows or macOS for any reason (but specially for wor
 
 The Krita project file is included in case you want to remove the watermark in the bottom corner. But check out [my other graphic design works](https://www.behance.net/daimarstein/) if you can!
 
+## TODO currently include:
+ - Linux Mint;
+ - Artix;
+ - Slackware;
+ - Gentoo;
+ - Zorin;
+ - Garuda;
+
 ## Current versions include:
 
 ### Tux:
